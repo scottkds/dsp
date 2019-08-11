@@ -191,7 +191,7 @@ We can get even fancier by adding a second flag
 ls -lh
 ```
 
-> What changed?
+> What changed? File size now shows in kilobytes vs. bytes.
 
 If instead copying we just want to change the name of a file, we can do:
 
