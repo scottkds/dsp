@@ -97,7 +97,27 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> **Frequentist vs. Bayesian Definition of Probability:**
+>>
+>> For freqentists probability is the long term frequency of events as the results of many repeated experiments. Only repeatable random events, such as coin flips or dice rolls have probabilities. Frequentists do not attach probablilities to fixed, but unknown values. So they will not say that value has a probability of being correct.
+>>
+>> Bayesians see probabilities as a random variable with its own distribution. Probabilities can be used to represent uncertainty about any hypothesis or event. Probabilities can be assigned to non-repeatable events suchs as ball games and elections.
+>>
+>> **Frequentists vs. Bayesian Parameter Estimation:**
+>>
+>> Frequentists use the Maximum Likelyhood Estimate (MLE) which is equal to the sample mean for normally distributed data, but has other calculations for other distributions. Frequentists won't say that the MLE is probabily greater that, less than or equal to any other value.
+>>
+>> Bayesians, viewing a probabily as a distribution, will use the distribution as basis for inference, called a prior, and use new sample data to update the the probability distribution which creates a posterior distribution.
+>>
+>> The majority of my insight into this question came from:
+>>
+>> ```
+>> https://www.probabilisticworld.com/frequentist-bayesian-approaches-inferential-statistics/
+>> and:
+>> https://www.behind-the-enemy-lines.com/2008/01/are-you-bayesian-or-frequentist-or.html
+>> ```
+>>
+>> 
 
 ---
 
