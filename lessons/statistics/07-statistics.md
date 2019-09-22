@@ -105,7 +105,7 @@ How do frequentist and Bayesian statistics compare?
 >>
 >> **Frequentists vs. Bayesian Parameter Estimation:**
 >>
->> Frequentists use the Maximum Likelyhood Estimate (MLE) which is equal to the sample mean for normally distributed data, but has other calculations for other distributions. Frequentists won't say that the MLE is probabily greater that, less than or equal to any other value.
+>> Frequentists use the Maximum Likelyhood Estimate (MLE) which is equal to the sample mean for normally distributed data, but has other calculations for other distributions. Frequentists won't say that the MLE is probabily greater than, less than or equal to any other value.
 >>
 >> Bayesians, viewing a probabily as a distribution, will use the distribution as basis for inference, called a prior, and use new sample data to update the the probability distribution which creates a posterior distribution.
 >>
